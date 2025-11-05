@@ -28,7 +28,9 @@ data-analyst-portfolio/
 # 🧩 Case Study 1 – Sales Insights
 
 Tables: orders, customers, order_items, products
+
 Key Focus: Joins, Aggregations, Ranking
+
 Highlights:
 
 - Found top 3 cities by revenue.
@@ -44,7 +46,9 @@ Highlights:
 # 🧩 Case Study 2 – HR Analytics
 
 Tables: employees, departments, attendance
+
 Key Focus: Subqueries, Grouping, Views
+
 Highlights:
 
 - Average salary per department.
@@ -61,7 +65,9 @@ Highlights:
 # 🧩 Case Study 3 – E-commerce Analytics
 
 Tables: users, sessions, transactions
+
 Key Focus: CTEs, Window Functions, Date Functions
+
 Highlights:
 
 - Average time spent per session.
@@ -78,7 +84,9 @@ Highlights:
 # 🧩 Case Study 4 – Hospital Analytics
 
 Tables: patients, visits, doctors, bills
+
 Key Focus: Joins, Grouping, Temporal Analysis
+
 Highlights:
 
 - Top 5 doctors by total billing.
@@ -93,7 +101,9 @@ Highlights:
 # 🧩 Case Study 5 – Movie Ratings
 
 Tables: movies, ratings, users
+
 Key Focus: Window Functions, Ranking, Trends
+
 Highlights:
 
 - Top-rated movie per genre using RANK().
@@ -110,7 +120,9 @@ Highlights:
 # 🧩 Final SQL Mini Project – Sales Performance Dashboard
 
 Tables: customers, products, orders, order_items, returns
+
 Key Focus: Business Metrics, Joins, Growth %
+
 Highlights:
 
 - Top 3 cities by total sales.
