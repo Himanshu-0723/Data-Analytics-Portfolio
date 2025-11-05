@@ -1,11 +1,11 @@
-#🧠 SQL Case Studies – Data Analyst Portfolio
+# 🧠 SQL Case Studies – Data Analyst Portfolio
 
 This repository contains 6 SQL case studies and 1 mini project designed to strengthen my data analytics and SQL problem-solving skills.
 Each case covers real-world business scenarios across domains like sales, HR, healthcare, e-commerce, and entertainment.
 
 ---
 
-#📂 Folder Structure
+# 📂 Folder Structure
 ```
 data-analyst-portfolio/
 │
@@ -25,7 +25,7 @@ data-analyst-portfolio/
 ---
 
 
-#🧩 Case Study 1 – Sales Insights
+# 🧩 Case Study 1 – Sales Insights
 
 Tables: orders, customers, order_items, products
 Key Focus: Joins, Aggregations, Ranking
@@ -41,7 +41,7 @@ Highlights:
 
 ---
 
-#🧩 Case Study 2 – HR Analytics
+# 🧩 Case Study 2 – HR Analytics
 
 Tables: employees, departments, attendance
 Key Focus: Subqueries, Grouping, Views
@@ -58,7 +58,7 @@ Highlights:
 ---
 
 
-#🧩 Case Study 3 – E-commerce Analytics
+# 🧩 Case Study 3 – E-commerce Analytics
 
 Tables: users, sessions, transactions
 Key Focus: CTEs, Window Functions, Date Functions
@@ -75,7 +75,7 @@ Highlights:
 ---
 
 
-#🧩 Case Study 4 – Hospital Analytics
+# 🧩 Case Study 4 – Hospital Analytics
 
 Tables: patients, visits, doctors, bills
 Key Focus: Joins, Grouping, Temporal Analysis
@@ -90,7 +90,7 @@ Highlights:
 ---
 
 
-#🧩 Case Study 5 – Movie Ratings
+# 🧩 Case Study 5 – Movie Ratings
 
 Tables: movies, ratings, users
 Key Focus: Window Functions, Ranking, Trends
@@ -107,7 +107,7 @@ Highlights:
 ---
 
 
-#🧩 Final SQL Mini Project – Sales Performance Dashboard
+# 🧩 Final SQL Mini Project – Sales Performance Dashboard
 
 Tables: customers, products, orders, order_items, returns
 Key Focus: Business Metrics, Joins, Growth %
@@ -126,7 +126,7 @@ Highlights:
 ---
 
 
-#🛠️ Skills Demonstrated
+# 🛠️ Skills Demonstrated
 
 - SQL Joins (INNER, LEFT, RIGHT)
 
