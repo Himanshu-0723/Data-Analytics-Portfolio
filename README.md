@@ -17,7 +17,6 @@ data-analyst-portfolio/
 │   ├── case5_movie_ratings.sql
 │   └── final_sales_performance_project.sql
 │
-├── datasets/         # (optional) mock CSV data files
 ├── visuals/          # dashboard images / charts
 └── README.md
 ```
